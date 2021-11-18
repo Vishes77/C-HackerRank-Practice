@@ -3,6 +3,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+//Vectors are Dynamic Araays.
+
 int max_of_four(int a, int b, int c, int d){
     // int a = max(a,b,c,d);
     // return a;
